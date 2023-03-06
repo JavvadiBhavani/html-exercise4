@@ -1,0 +1,124 @@
+body{
+	background-color:#82050e;
+	
+}
+.cont{
+	width:60%;
+	margin:auto;
+
+}
+.cont .header{
+	display:flex;
+	
+	
+}
+.header .logo img{
+	width:140px;
+	height:120px;
+}
+.header .Text{
+	letter-spacing:1.7px;
+	text-align:center;
+	color:white;
+	margin-top:5px;
+	margin-right:250px;
+	
+}
+.Text span{
+	font-size:20px;
+	font-size:bold;
+	color:white;
+	padding:10px;
+}
+.search{
+	margin-top:20px;
+	margin-right:5px;
+
+
+}
+.search .t{
+	border-radius:3px;
+	border:none;
+	width:200px;
+}
+.sicons img{
+	width:20px;
+	height:20px;
+	padding:2px;
+}
+.sicons{
+	float:right;
+	display:flex;
+	margin-top:15px;
+	
+}
+
+.nav{
+	display:flex;
+	background-color:#43433d;
+	font-family: sans-serif;
+	padding-top:2px;
+	padding-bottom:0px;
+}
+.nav a{
+	text-decoration:none;
+	padding:10px;
+	border-left:1px solid gray;
+	border-right:1px solid gray;
+	font-size:15px;
+	color:white;
+	width:110px
+}
+.nav a:hover{
+	color:black;
+	background-color:white;
+}
+#ho1{
+	background-color:red;
+	border-left:none;
+	width:90px;
+	padding-left:20px;
+	padding-right:0px;
+}
+.ban{
+	width:99.9%;
+	border:1px solid maroon;
+	height:250px;
+	padding-bottom:2px;
+}
+
+.data{
+	padding-top:20px;
+	background-color:white;
+	padding-left:5px;
+	display:flex;
+}
+.data .title{
+	font-family: sans-serif;
+	font-weight:bold;
+	color:#82050e;
+	text-shadow: 1px 1px #c3c4c7;
+}
+.desc img{
+	margin-top:10px;
+	width:180px;
+	height:120px;
+	border-radius:5px;
+	border:2px solid gray;
+	float:left;
+}
+.about {
+	text-align:justify;
+	font-size:15px;
+	padding:10px;
+}
+.copy{
+	background-color:#43433d;
+	color:white;
+	text-align:center;
+	padding:10px;
+	font-family: sans-serif;
+}
+.copy p{
+		margin:auto;
+}
